@@ -5,7 +5,7 @@
 
 _Build an application with GitHub Copilot agent mode in less than an hour._
 
-### Pull Request Summary: OctoFit Tracker Project
+### OctoFit Tracker Project
 
 #### Overview:
 This pull request introduces the **OctoFit Tracker** application, a fitness tracking platform designed for Mergington High School. The project is inspired by the Monafit Tracker app and includes a backend built with Django and a frontend developed using React. The app enables users to log activities, view leaderboards, manage teams, and track workouts.
