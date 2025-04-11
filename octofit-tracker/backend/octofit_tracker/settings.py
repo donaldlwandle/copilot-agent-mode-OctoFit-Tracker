@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-$m2$$r5)6b0qddvn(ga1zrz9t4ordw-(toag*@%49xi0a+=eax
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['fluffy-acorn-ppj547r956j3rxv5-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
