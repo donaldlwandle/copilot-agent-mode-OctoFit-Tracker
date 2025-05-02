@@ -30,8 +30,8 @@ In this step, we will accomplish the following:
 >Based on the example monafit tracker app in the docs/mona-high-school-fitness-tracker.md file and use octofit as the name for Mergington's high school's app. Let's setup codespace for the URL, start the server via VS Code launch.json, and test the API.
 > 
 > 1. Activate the Python virtual environment.
-> 2. Update #file:octofit-tracker/backend/octofit_tracker/views.py to replace the return for the REST API URL endpoints with the codespace URL https://[REPLACE-THIS-WITH-YOUR-CODESPACE-NAME]-8000.app.github.dev for Django and avoid certificate HTTPS issues.
-> 3. Make sure the Django backend works on [REPLACE-THIS-WITH-YOUR-CODESPACE-NAME]-8000.app.github.dev and localhost:8000.
+> 2. Update #file:octofit-tracker/backend/octofit_tracker/views.py to replace the return for the REST API URL endpoints with the codespace URL https://fluffy-acorn-ppj547r956j3rxv5-8000.app.github.dev for Django and avoid certificate HTTPS issues.
+> 3. Make sure the Django backend works on https://fluffy-acorn-ppj547r956j3rxv5-8000.app.github.dev and localhost:8000.
 > 4. Test the API endpoints using curl command.
 > 5. Allow host access to codespace URL and localhost:8000.
 >
